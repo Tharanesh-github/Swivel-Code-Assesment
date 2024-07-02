@@ -1,0 +1,7 @@
+1.groupId =org.projectlombok;
+1.artifactId=Lombok;
+1.version=1.5;
+
+2.groupId=com.google.api-client;
+2.artifactId=google-api-client;
+2.version=1.30.9;
