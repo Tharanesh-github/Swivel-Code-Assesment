@@ -34,7 +34,7 @@ The recommended methods to setup a copy of the application on your local machine
    cd Swivel-Code-Assignment
    ```
 
-3. Add the absolute path within line numbers 131 and 132 within the GenerateXML.java
+3. Add the absolute path(not relative path) within line numbers 131 and 132 within the GenerateXML.java
 
    <img src="images/Screenshot-of-Filepath-in-Code.png" alt="Screenshot of Filepath in Code">
 
